@@ -1,0 +1,32 @@
+.detail-name {
+  color: #424242;
+  text-align: center;
+}
+
+.detail-section {
+  width: 50%;
+  margin: auto;
+  border: 1px solid #eaeaea;
+}
+
+.detail-section-title {
+  background: black;
+  color: white;
+  margin: 0;
+  padding: .5em;
+}
+
+.detail-section-container {
+  color: #424242;
+  padding: .5em;
+  border-bottom: 1px solid #eaeaea;
+  background: #ecf0f1;
+}
+
+.detail-section-container:last-child {
+  border-bottom: none;
+}
+
+.detail-section-container:nth-of-type(odd){
+  background: white;
+}
