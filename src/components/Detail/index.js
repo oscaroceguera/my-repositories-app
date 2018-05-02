@@ -1,4 +1,4 @@
-import React from 'React'
+import React from 'react'
 import withLoading from '../withLoading'
 
 import './detail.css'
